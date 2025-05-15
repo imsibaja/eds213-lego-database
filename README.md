@@ -8,6 +8,7 @@ References and / or Acknowledgements
 
 I acknogledge myself. this is the [data](https://www.kaggle.com/datasets/rtatman/lego-database?select=colors.csv)
 
+```
 eds213-lego-database
 │
 ├── .DS_Store                                           
@@ -34,3 +35,4 @@ eds213-lego-database
 |   │   ├── raw_schema.png
 |   │   ├── sets.csv
 |   │   ├── themes.csv
+```

@@ -1,33 +1,38 @@
 # LEGO Database
-A brief explanation of the repository’s purpose
-- Paragraphs or a bulleted list are both acceptable options
-- You may include an image or logo that represents the project
 
-This project will investigate the different color patterns used in different Lego Themes.
+This houses the repo in which i aim to answer the question, which colors are used in the star was lego theme?
 
-A concise description of what’s housed in the repository
-- This includes information about the repository structure or file organization
-Details regarding data access
-- Any necessary information on where data lives (e.g. is it housed in the repo, on a server, in a library / package etc.) and how to access it in order to run the code
+simply run data_clean.ipynb and you can recreate this too.
 
 References and / or Acknowledgements
-- In an appropriate, consistent format, including links
-- Provide reference to any other individuals or sources that supported the development of the repository. For example, did you fork an existing repository? Did the work have any funding sources? Were there individuals you consulted with or were inspired by?
-- Don’t forget to add references for data sets too
 
+I acknogledge myself. this is the [data](https://www.kaggle.com/datasets/rtatman/lego-database?select=colors.csv)
 
-eds213-lego_database
+```
+eds213-lego-database
 │
 ├── .DS_Store                                           
 ├── README.md                                            
 ├── .gitignore
-├── lego_project
-│   ├── lego.db
-│   ├── lego.db.wal
-│   ├── data_exploration.qmd
-│   ├── .DS_Store
-│   ├── tables.sql                                               
-│   ├── data/                       
+├── lego_sw_colors.png
+├── lego_sw_part_colors.db
+├── data_clean.ipynb
+├── data/              
+|   ├── processed/              
 |   │   ├── colors.csv
+|   │   ├── inventories.csv
+|   │   ├── inventory_parts.csv
+|   │   ├── lego_sw_colors_clean.csv
 |   │   ├── sets.csv
 |   │   ├── themes.csv
+|   ├── raw/              
+|   │   ├── colors.csv
+|   │   ├── inventories.csv
+|   │   ├── inventory_parts.csv
+|   │   ├── inventory_sets.csv
+|   │   ├── part_categories.csv
+|   │   ├── parts.csv
+|   │   ├── raw_schema.png
+|   │   ├── sets.csv
+|   │   ├── themes.csv
+```

@@ -22,7 +22,7 @@ eds213-lego-database
 ├── .gitignore
 ├── lego_sw_colors.png
 ├── lego_sw_part_colors.db
-├── data_clean.ipynb
+├── lego_sw_data_clean.ipynb
 ├── data/              
 |   ├── processed/              
 |   │   ├── colors.csv

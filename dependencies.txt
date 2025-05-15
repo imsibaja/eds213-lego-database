@@ -233,5 +233,4 @@ widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnb
 wrapt==1.14.1
 xgboost @ file:///home/conda/feedstock_root/build_artifacts/xgboost-split_1713397725960/work/python-package
 yarl @ file:///home/conda/feedstock_root/build_artifacts/yarl_1733428766700/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
-zstandard==0.23.0
+zipp @ file:///home/

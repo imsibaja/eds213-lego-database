@@ -1,13 +1,19 @@
 # LEGO Database
 
-This houses the repo in which i aim to answer the question, which colors are used in the star was lego theme?
+This houses the repo in which i aim to answer the question, 
+
+*Which colors are used in the lego star wars sets?*
 
 simply run data_clean.ipynb and you can recreate this too.
 
-References and / or Acknowledgements
+## References and / or Acknowledgements
 
 I acknogledge myself. this is the [data](https://www.kaggle.com/datasets/rtatman/lego-database?select=colors.csv)
 
+## Dependencies
+Dependencies can be found in the dependencies.txt file.
+
+## Repo Structure
 ```
 eds213-lego-database
 │

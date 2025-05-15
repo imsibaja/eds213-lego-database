@@ -1,0 +1,65 @@
+id,name,rgb,is_trans
+-1,Unknown,0033B2,f
+0,Black,05131D,f
+1,Blue,0055BF,f
+2,Green,237841,f
+3,Dark Turquoise,008F9B,f
+4,Red,C91A09,f
+6,Brown,583927,f
+7,Light Gray,9BA19D,f
+8,Dark Gray,6D6E5C,f
+10,Bright Green,4B9F4A,f
+14,Yellow,F2CD37,f
+15,White,FFFFFF,f
+19,Tan,E4CD9E,f
+25,Orange,FE8A18,f
+26,Magenta,923978,f
+27,Lime,BBE90B,f
+28,Dark Tan,958A73,f
+30,Medium Lavender,AC78BA,f
+33,Trans-Dark Blue,0020A0,t
+34,Trans-Green,84B68D,t
+35,Trans-Bright Green,D9E4A7,t
+36,Trans-Red,C91A09,t
+40,Trans-Black,635F52,t
+41,Trans-Light Blue,AEEFEC,t
+42,Trans-Neon Green,F8F184,t
+45,Trans-Dark Pink,DF6695,t
+46,Trans-Yellow,F5CD2F,t
+47,Trans-Clear,FCFCFC,t
+52,Trans-Purple,A5A5CB,t
+57,Trans-Neon Orange,FF800D,t
+64,Chrome Black,1B2A34,f
+70,Reddish Brown,582A12,f
+71,Light Bluish Gray,A0A5A9,f
+72,Dark Bluish Gray,6C6E68,f
+73,Medium Blue,5A93DB,f
+78,Light Flesh,F6D7B3,f
+80,Metallic Silver,A5A9B4,f
+82,Metallic Gold,DBAC34,f
+84,Medium Dark Flesh,CC702A,f
+89,Royal Blue,4C61DB,f
+92,Flesh,D09168,f
+110,Violet,4354A3,f
+135,Pearl Light Gray,9CA3A8,f
+137,Metal Blue,7988A1,f
+143,Trans-Medium Blue,CFE2F7,t
+148,Pearl Dark Gray,575857,f
+179,Flat Silver,898788,f
+182,Trans-Orange,F08F1C,t
+191,Bright Light Orange,F8BB3D,f
+226,Bright Light Yellow,FFF03A,f
+272,Dark Blue,0A3463,f
+288,Dark Green,184632,f
+297,Pearl Gold,AA7F2E,f
+308,Dark Brown,352100,f
+320,Dark Red,720E0F,f
+321,Dark Azure,078BC9,f
+322,Medium Azure,36AEBF,f
+326,Olive Green,9B9A5A,f
+334,Chrome Gold,BBA53D,f
+378,Sand Green,A0BCAC,f
+379,Sand Blue,6074A1,f
+383,Chrome Silver,E0E0E0,f
+484,Dark Orange,A95500,f
+9999,[No Color],05131D,f

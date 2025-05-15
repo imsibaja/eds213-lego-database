@@ -11,55 +11,41 @@ unique_id,theme_name,color_name,color_hex,total_quantity
 10,Star Wars,Flat Silver,898788,537.0
 11,Star Wars,Dark Red,720E0F,516.0
 12,Star Wars,Dark Gray,6D6E5C,501.0
-13,Star Wars,Trans-Red,C91A09,467.0
-14,Star Wars,Dark Tan,958A73,446.0
-15,Star Wars,Sand Green,A0BCAC,415.0
-16,Star Wars,Yellow,F2CD37,338.0
-17,Star Wars,Trans-Clear,FCFCFC,284.0
-18,Star Wars,Dark Blue,0A3463,265.0
-19,Star Wars,Brown,583927,237.0
-20,Star Wars,Orange,FE8A18,214.0
-21,Star Wars,Trans-Light Blue,AEEFEC,193.0
-22,Star Wars,Trans-Black,635F52,140.0
-23,Star Wars,Green,237841,137.0
-24,Star Wars,Dark Orange,A95500,135.0
-25,Star Wars,Light Flesh,F6D7B3,130.0
-26,Star Wars,Trans-Bright Green,D9E4A7,96.0
-27,Star Wars,Dark Brown,352100,93.0
-28,Star Wars,Metal Blue,7988A1,81.0
-29,Star Wars,Trans-Neon Orange,FF800D,66.0
-30,Star Wars,Trans-Orange,F08F1C,66.0
-31,Star Wars,Pearl Dark Gray,575857,65.0
-32,Star Wars,Medium Blue,5A93DB,65.0
-33,Star Wars,Pearl Light Gray,9CA3A8,59.0
-34,Star Wars,Pearl Gold,AA7F2E,58.0
-35,Star Wars,Olive Green,9B9A5A,56.0
-36,Star Wars,Trans-Dark Blue,0020A0,52.0
-37,Star Wars,Trans-Yellow,F5CD2F,50.0
-38,Star Wars,Trans-Neon Green,F8F184,45.0
-39,Star Wars,Metallic Silver,A5A9B4,42.0
-40,Star Wars,Sand Blue,6074A1,37.0
-41,Star Wars,Violet,4354A3,35.0
-42,Star Wars,Medium Dark Flesh,CC702A,26.0
-43,Star Wars,Lime,BBE90B,25.0
-44,Star Wars,Trans-Green,84B68D,22.0
-45,Star Wars,Dark Green,184632,15.0
-46,Star Wars,Metallic Gold,DBAC34,14.0
-47,Star Wars,Trans-Dark Pink,DF6695,12.0
-48,Star Wars,Dark Azure,078BC9,11.0
-49,Star Wars,[No Color],05131D,11.0
-50,Star Wars,Bright Green,4B9F4A,9.0
-51,Star Wars,Dark Turquoise,008F9B,8.0
-52,Star Wars,Bright Light Orange,F8BB3D,5.0
-53,Star Wars,Flesh,D09168,5.0
-54,Star Wars,Trans-Medium Blue,CFE2F7,4.0
-55,Star Wars,Chrome Black,1B2A34,3.0
-56,Star Wars,Medium Lavender,AC78BA,2.0
-57,Star Wars,Bright Light Yellow,FFF03A,2.0
-58,Star Wars,Chrome Gold,BBA53D,2.0
-59,Star Wars,Magenta,923978,2.0
-60,Star Wars,Royal Blue,4C61DB,2.0
-61,Star Wars,Unknown,0033B2,1.0
-62,Star Wars,Trans-Purple,A5A5CB,1.0
-63,Star Wars,Chrome Silver,E0E0E0,1.0
-64,Star Wars,Medium Azure,36AEBF,1.0
+13,Star Wars,Dark Tan,958A73,446.0
+14,Star Wars,Sand Green,A0BCAC,415.0
+15,Star Wars,Yellow,F2CD37,338.0
+16,Star Wars,Dark Blue,0A3463,265.0
+17,Star Wars,Brown,583927,237.0
+18,Star Wars,Orange,FE8A18,214.0
+19,Star Wars,Green,237841,137.0
+20,Star Wars,Dark Orange,A95500,135.0
+21,Star Wars,Light Flesh,F6D7B3,130.0
+22,Star Wars,Dark Brown,352100,93.0
+23,Star Wars,Metal Blue,7988A1,81.0
+24,Star Wars,Medium Blue,5A93DB,65.0
+25,Star Wars,Pearl Dark Gray,575857,65.0
+26,Star Wars,Pearl Light Gray,9CA3A8,59.0
+27,Star Wars,Pearl Gold,AA7F2E,58.0
+28,Star Wars,Olive Green,9B9A5A,56.0
+29,Star Wars,Metallic Silver,A5A9B4,42.0
+30,Star Wars,Sand Blue,6074A1,37.0
+31,Star Wars,Violet,4354A3,35.0
+32,Star Wars,Medium Dark Flesh,CC702A,26.0
+33,Star Wars,Lime,BBE90B,25.0
+34,Star Wars,Dark Green,184632,15.0
+35,Star Wars,Metallic Gold,DBAC34,14.0
+36,Star Wars,Dark Azure,078BC9,11.0
+37,Star Wars,[No Color],05131D,11.0
+38,Star Wars,Bright Green,4B9F4A,9.0
+39,Star Wars,Dark Turquoise,008F9B,8.0
+40,Star Wars,Bright Light Orange,F8BB3D,5.0
+41,Star Wars,Flesh,D09168,5.0
+42,Star Wars,Chrome Black,1B2A34,3.0
+43,Star Wars,Magenta,923978,2.0
+44,Star Wars,Bright Light Yellow,FFF03A,2.0
+45,Star Wars,Chrome Gold,BBA53D,2.0
+46,Star Wars,Medium Lavender,AC78BA,2.0
+47,Star Wars,Royal Blue,4C61DB,2.0
+48,Star Wars,Medium Azure,36AEBF,1.0
+49,Star Wars,Unknown,0033B2,1.0
+50,Star Wars,Chrome Silver,E0E0E0,1.0

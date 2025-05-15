@@ -1,9 +1,6 @@
 # LEGO Database
-A brief explanation of the repository’s purpose
-- Paragraphs or a bulleted list are both acceptable options
-- You may include an image or logo that represents the project
 
-This project will investigate the different color patterns used in different Lego Themes.
+This houses the repo in which i aim to answer the question, which colors are used in the star was lego theme?
 
 A concise description of what’s housed in the repository
 - This includes information about the repository structure or file organization
@@ -21,13 +18,23 @@ eds213-lego_database
 ├── .DS_Store                                           
 ├── README.md                                            
 ├── .gitignore
-├── lego_project
-│   ├── lego.db
-│   ├── lego.db.wal
-│   ├── data_exploration.qmd
-│   ├── .DS_Store
-│   ├── tables.sql                                               
-│   ├── data/                       
+├── lego.db
+├── lego.db.wal
+├── data_exploration.qmd
+├── data/              
+|   ├── processed/              
 |   │   ├── colors.csv
+|   │   ├── inventories.csv
+|   │   ├── inventory_parts.csv
+|   │   ├── lego_sw_colors_clean.csv
+|   │   ├── sets.csv
+|   │   ├── themes.csv
+|   ├── raw/              
+|   │   ├── colors.csv
+|   │   ├── inventories.csv
+|   │   ├── inventory_parts.csv
+|   │   ├── inventory_sets.csv
+|   │   ├── part_categories.csv
+|   │   ├── parts.csv
 |   │   ├── sets.csv
 |   │   ├── themes.csv

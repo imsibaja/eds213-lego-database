@@ -52,8 +52,7 @@ To recreate the analysis:
 
 1. Clone this repository.
 2. Install dependencies listed in `dependencies.txt`.
-3. Ensure the manually created SQLite database (`lego_sw_part_colors.db`) is deleted from the root directory,
-   as the notebook will recreate it themselves.
+3. Ensure the manually created SQLite database (`lego_sw_part_colors.db`) is deleted from the root directory, as the notebook will recreate it.
 4. Run the Jupyter notebook: `lego_sw_data_clean.ipynb`.
 
 The notebook contains the necessary SQL query logic to extract relevant data from the database.
